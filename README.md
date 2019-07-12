@@ -58,5 +58,36 @@ The file contains functions for preprocessing data that may be useful for puttin
  - **bin_output**: converts a continuous stream of outputs to the average output within time bins
  - **get_spikes_with_history**: using binned spikes as input, this function creates a covariate matrix of neural data that incorporates spike history
 
+## Results:
+**DNN:**
+<div class="imgcap" align="middle">
+<center><img src="Output/DNN.png"></center>
+<div class="thecap" align="middle"><b>DNN decoder</b></div>
+</div>
+
+**Feedforward Neural Network:**
+<div class="imgcap" align="middle">
+<center><img src="Output/Feedforward Neural Network.PNG"></center>
+<div class="thecap" align="middle"><b>FNN decoder</b></div>
+</div>
+
+**LSTM:**
+<div class="imgcap" align="middle">
+<center><img src="Output/LSTM.png"></center>
+<div class="thecap" align="middle"><b>LSTM decoder</b></div>
+</div>
+
+**SVR:**
+<div class="imgcap" align="middle">
+<center><img src="Output/SVR.png"></center>
+<div class="thecap" align="middle"><b>SVR decoder</b></div>
+</div>
+
+
+**Weiner Filter:**
+<div class="imgcap" align="middle">
+<center><img src="Output/Wiener Filter.PNG"></center>
+<div class="thecap" align="middle"><b>Weiner Filter decoder</b></div>
+</div>
 
 
