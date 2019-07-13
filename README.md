@@ -61,7 +61,7 @@ The file contains functions for preprocessing data that may be useful for puttin
 ## Results:
 **DNN:**
 <div class="imgcap" align="middle">
-<center><img src="Output/DNN.png"></center>
+<center><img src="Output/DNN.PNG"></center>
 <div class="thecap" align="middle"><b>DNN decoder</b></div>
 </div>
 
@@ -73,13 +73,13 @@ The file contains functions for preprocessing data that may be useful for puttin
 
 **LSTM:**
 <div class="imgcap" align="middle">
-<center><img src="Output/LSTM.png"></center>
+<center><img src="Output/LSTM.PNG"></center>
 <div class="thecap" align="middle"><b>LSTM decoder</b></div>
 </div>
 
 **SVR:**
 <div class="imgcap" align="middle">
-<center><img src="Output/SVR.png"></center>
+<center><img src="Output/SVR.PNG"></center>
 <div class="thecap" align="middle"><b>SVR decoder</b></div>
 </div>
 
